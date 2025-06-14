@@ -25,7 +25,7 @@ def get_links(username: str) -> dict:
 @mcp.tool
 
 def get_nsfw_links(username: str) -> dict:
-    """Search for a username across multiple social media platforms using Sherlock.
+    """Search for a username across multiple social media platforms including NSFW platforms using Sherlock.
     
     Args:
         username (str): The username to search for across social media platforms including NSFW platforms.
