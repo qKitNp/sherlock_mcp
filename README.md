@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qkitnp-sherlock-mcp-badge.png)](https://mseep.ai/app/qkitnp-sherlock-mcp)
+
 # Sherlock MCP
 
 A FastMCP-based tool for searching usernames across multiple social media platforms using Sherlock. This tool provides both standard and NSFW platform search capabilities.
