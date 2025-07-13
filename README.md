@@ -83,3 +83,5 @@ Both endpoints return a JSON string containing an array of objects with the foll
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/9a7df53f-dece-40c1-8819-beb0cf73e960)
