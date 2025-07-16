@@ -1,5 +1,5 @@
 # Sherlock MCP 
-[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/9a7df53f-dece-40c1-8819-beb0cf73e960)
+[![smithery badge](https://smithery.ai/badge/@qKitNp/sherlock_mcp)](https://smithery.ai/server/@qKitNp/sherlock_mcp) [![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/9a7df53f-dece-40c1-8819-beb0cf73e960)
 
 A FastMCP-based tool for searching usernames across multiple social media platforms using Sherlock. This tool provides both standard and NSFW platform search capabilities.
 
