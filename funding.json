@@ -1,0 +1,65 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+      "type": "individual",
+      "role": "owner",
+      "name": "Pranjal",
+      "email": "pranjal19@pm.me",
+      "phone": "6207466694",
+      "description": "Pranjal is a final-year CSE student and independent developer from India. He has built open-source tools, VSCode extensions, and AI-driven projects, and is passionate about creating practical software for the community. He maintains and contributes to projects like Resumedogs and sherlock_mcp, focusing on usability and innovation.",
+      "webpageUrl": {
+        "url": "https://github.com/qKitNp/sherlock_mcp"
+      }
+    },
+    "projects": [
+      {
+        "guid": "sherlock-mcp",
+        "name": "sherlock_mcp",
+        "description": "A tool inspired by Sherlock that checks usernames across multiple platforms, helping users find account availability and links efficiently.",
+        "webpageUrl": {
+          "url": "https://github.com/qKitNp/sherlock_mcp"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/qKitNp/sherlock_mcp"
+        },
+        "licenses": [
+          "spdx:MIT"
+        ],
+        "tags": [
+          "python",
+          "cli",
+          "osint",
+          "username-checker",
+          "account-finder",
+          "developer-tools",
+          "cyber-security",
+          "infosec"
+        ]
+      }
+    ],
+    "funding": {
+      "channels": [
+        {
+          "guid": "upi",
+          "type": "payment-provider",
+          "address": "kitn@slc",
+          "description": "Send any amount to support the project. The project is being expanded into a robust set of tools for OSINT and hosting, helping users gather and analyze public information."
+        }
+      ],
+      "plans": [
+        {
+          "guid": "one-time-support",
+          "status": "active",
+          "name": "One-time support",
+          "description": "Support the project with a one-time contribution.",
+          "amount": 100,
+          "currency": "INR",
+          "frequency": "one-time",
+          "channels": [
+            "upi"
+          ]
+        }
+      ],
+      "history": []
+    }
+  }
